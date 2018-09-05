@@ -72,6 +72,7 @@
                 android:background="@drawable/circle2"
                 android:layout_marginRight="10dp"
                 android:textStyle="bold"
+                android:textColor="#fff"
                 />
 
             <Button
@@ -82,6 +83,7 @@
                 android:text="add guest"
                 android:background="@drawable/circle2"
                 android:textStyle="bold"
+                android:textColor="#fff"
                 />
 
         </LinearLayout>
